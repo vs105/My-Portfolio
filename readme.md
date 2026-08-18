@@ -109,11 +109,11 @@ This repository contains my **Official Personal Portfolio Website**, built as an
 - Engineered end-to-end data preprocessing pipelines using **Pandas** & **NumPy**.
 - Performed Exploratory Data Analysis (EDA) and evaluated predictive accuracy using **SciPy**, **Matplotlib**, and **Seaborn**.
 
-### 🔹 General Secretary @ The Performing Arts Club *(2024 – Present)*
+### 🔹 General Secretary @ The Performing Arts Club *(June 2025 – July 2026)*
 - Organized 10+ major university events featuring over 150+ participants.
 - Managed event operations, logistics, budget allocations, and inter-departmental collaboration.
 
-### 🔹 Technical Lead @ University Clubs *(2024 – Present)*
+### 🔹 Technical Lead @ University Clubs *(Aug 2024 – July 2026)*
 - Spearheaded AV & Sound System setup and technical troubleshooting for campus-wide events and cultural fests.
 
 ---
